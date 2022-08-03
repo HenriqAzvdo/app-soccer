@@ -10,3 +10,4 @@ App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este re
     - [release/consumo-de-apis-e-persistencia-de-dados-locais](https://github.com/digitalinnovationone/soccer-news-app/tree/release/consumo-de-apis-e-persistencia-de-dados-locais)
 
 teste 1 commit
+teste 2 commit
