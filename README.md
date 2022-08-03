@@ -8,3 +8,5 @@ App Nativo Android de Notícias Sobre Futebol Feminino (Mês da Mulher). Este re
     - [release/abstraindo-dominio-de-apps-android-nativos-com-java](https://github.com/digitalinnovationone/soccer-news-app/tree/release/abstraindo-dominio-de-apps-android-nativos-com-java)
 1. [Consumo de APIs e Persistência de Dados Locais em Apps Android](https://docs.google.com/presentation/d/1FrsBIZ5v7scAZwzUfmQK7wPLl-NRU-LA/edit?usp=sharing&ouid=107980611913120181649&rtpof=true&sd=true) (Slides)
     - [release/consumo-de-apis-e-persistencia-de-dados-locais](https://github.com/digitalinnovationone/soccer-news-app/tree/release/consumo-de-apis-e-persistencia-de-dados-locais)
+
+teste 1 commit
